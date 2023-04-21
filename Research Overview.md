@@ -4,7 +4,7 @@
 OTA에 대한 고객의 만족도와 서비스 품질에 영향을 미치는 요인을 도출합니다.
 
 ## Research Framework
-![캡처](https://user-images.githubusercontent.com/108857527/233581253-d225f995-8305-4e32-ad69-34dc4a8b0845.PNG)
+![image](https://user-images.githubusercontent.com/108857527/233601757-326255f1-c85c-4c75-a1f4-92f857660bb1.png)
 
 ## Topic Modeling result
 - LDA-Based Topic Modeling
